@@ -14,13 +14,12 @@
 <br/>
 
 <p>
-  Hello there! My Name is Joshua Palma, Junior Software Developer here in the Philippines. Graduate of Bachelor of Science in Information Technology in Quezon City  University (Former Quezon City Polytechnic University)
+  Hello there! My Name is Joshua Palma, Junior Software Developer here in the Philippines. Graduate of Bachelor of Science in Information Technology in Quezon City  University (Former Quezon City Polytechnic University). I have also almost 1 year of experience in the IT industry acquiring more new knowledge and techniques that will benefit to my personal and skill growth 
 </p>
 
 <div align="start" style="margin-bottom: 3em;">
   <h3> Current Status:</h3>
     <p> 💼 Software Developer and pursuing to become Network Engineer</p>
-    <p> 🚀 A fan of architecture-based technology frameworks. </p>
     <p> 🌱 Currently learning different platforms specifically mobile development</p>
     <p> 🤖 20% Reading, 20% Coding, 20% Sleep, 40% Coffee. </p>
 </div>
