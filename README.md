@@ -1,6 +1,6 @@
-<!-- <div align="center">
-<img src="https://github.com/git-TAP/EPP-Lessons/blob/main/web%20developer.gif?raw=true" align="center" style="width: 100%" />
-</div> -->
+<div align="center">
+<img src="https://c4.wallpaperflare.com/wallpaper/139/610/492/quote-simple-motivational-minimalism-wallpaper-preview.jpg?raw=true" align="center" style="width: 50%" />
+</div>
 
 <h1 align="center">Hi , I'm Joshua Palma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
