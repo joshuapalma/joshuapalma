@@ -66,8 +66,8 @@
 ---
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=joshuapalma&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuapalma&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=joshuapalma&theme=react&count_private=true&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuapalma&theme=react&count_private=true&layout=compact" />
 </p>
 
 ---
