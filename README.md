@@ -14,7 +14,10 @@
 <br/>
 
 <p>
-  Hello there! My Name is Joshua Palma, Junior Backend Developer (Laravel) here in the Philippines. Graduate of Bachelor of Science in Information Technology in Quezon City  University (Former Quezon City Polytechnic University). I have also almost 1 year of experience in the IT industry acquiring more new knowledge and techniques that will benefit to my personal and skill growth 
+  I am a passionate and results-driven web developer with nearly 3 years of experience specializing in building robust and scalable web applications using the Laravel framework. My expertise lies in developing backend systems, crafting clean and efficient code, and delivering intuitive user experiences. I have a foundation in RESTful APIs, database design, and modern web technologies, which I leverage to create seamless integrations and solutions. 
+</p>
+<p>
+  With a focus on continuous learning, I stay up-to-date with the latest advancements in Laravel, PHP, and web development practices. I am committed to solving complex problems and improving system performance while ensuring best coding practices. Whether it’s developing new features or optimizing existing applications, I thrive on turning ideas into reality through code.
 </p>
 
 <div align="start" style="margin-bottom: 3em;">
